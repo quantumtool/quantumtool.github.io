@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Hello World
 
 欢迎你！这是我的个人博客页。
