@@ -4,4 +4,4 @@
 
 ##文章列表
 
-- [我的第一篇博客]({% post_url 2025-04-14-my-first-post %})
+- [我的第一篇博客]({% post_url 2026-04-14-my-first-post %})
