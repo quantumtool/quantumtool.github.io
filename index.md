@@ -4,7 +4,5 @@
 
 ## 📚 文章目录
 
-- [我的第一篇博客]({ post_url 2026-04-14-my-first-post })
 
-- [第一篇]({% post_url 2026-04-14-my-first-post %})
-- [第二篇]({% post_url 2025-04-15-second-post %})
+[我的第一篇博客](/2026/04/14/my-first-post.html)
