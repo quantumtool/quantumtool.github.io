@@ -1,3 +1,9 @@
+---
+layout: post
+title: 贝叶斯公式
+date: 2026-04-18
+---
+
 # 贝叶斯概率公式（Bayes' Theorem）
 
 ## 一、基本公式
