@@ -13,3 +13,4 @@ layout: default
 [我的第一篇博客]({% post_url 2026-04-14-my-first-post %})
 
 [贝叶斯概率公式]({% post_url 2026-04-18-Bayes'-Theorem %})
+[学习记录]({% post_url 2026-05-09 %})
